@@ -31,5 +31,5 @@ request = {"person":"Vishanth", "msg":text}
 for i in cmds:
     print(i)
     perform(cmds[i],request)
-    time.sleep(1)
+    time.sleep(1.5)
 
